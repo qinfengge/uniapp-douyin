@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "comment": "/components/kai-video-swiper/components/comment",
+    "share": "/components/kai-video-swiper/components/share",
+    "top-text": "/components/kai-video-swiper/components/top-text"
+  }
+}
